@@ -1,0 +1,21 @@
+{
+    "one": [
+      "static/one/main/main.jpg",
+      "static/one/2.jpg",
+      "static/one/3.jpg",
+      "static/one/4.jpg"
+    ],
+    "two": [
+      "static/two/main/main.jpg",
+      "static/two/2.jpg",
+      "static/two/3.jpg",
+      "static/two/4.jpg"
+    ],
+    "three": [
+        "static/three/main/main.jpg",
+        "static/three/2.jpg",
+        "static/three/3.jpg",
+        "static/three/4.jpg"
+      ]
+  }
+  
