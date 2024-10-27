@@ -13,8 +13,8 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px; /* Space between artworks */
-    margin-top: 20px; /* Adds space above the portfolio */
-    margin-bottom: 20px; /* Adds space below the portfolio */
+    margin-top: 50px; /* Adds space above the portfolio */
+    margin-bottom: 50px; /* Adds space below the portfolio */
 }
 
 .top-left, .bottom-left {
