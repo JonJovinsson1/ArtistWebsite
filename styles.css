@@ -13,6 +13,8 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px; /* Space between artworks */
+    margin-top: 20px; /* Adds space above the portfolio */
+    margin-bottom: 20px; /* Adds space below the portfolio */
 }
 
 .top-left, .bottom-left {
@@ -23,13 +25,19 @@ body {
 }
 
 .top-left {
-    top: 10px;
+    top: 20px;
     left: 10px;
+    font-size: 0.9em;
+    color: #333;
+    margin-bottom: 20px; /* Adds space between name and portfolio content */
 }
 
 .bottom-left {
-    bottom: 10px;
+    bottom: 20px;
     left: 10px;
+    font-size: 0.9em;
+    color: #333;
+    margin-top: 500px; /* Adds space between email and portfolio content */
 }
 
 .artwork {
